@@ -1,0 +1,4 @@
+# 忽略cdn
+
+DOMAIN-SUFFIX,statically.io
+DOMAIN-SUFFIX,jsdelivr.net
